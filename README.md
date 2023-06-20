@@ -1,6 +1,6 @@
 # Taller_Versionamiento
 Es mi primera linea 01\
-Mi segunda linea\
+Es mi segunda linea\
 Mi tercera linea\
 Mi cuarta linea\
 Mi quinta linea\
