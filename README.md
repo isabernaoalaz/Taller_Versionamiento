@@ -1,8 +1,9 @@
 # Taller_Versionamiento
 Es mi primera linea 01\
-Es mi segunda linea\
+Quiero que sea mi segunda linea\
 Mi tercera linea\
 Mi cuarta linea\
 Mi quinta linea\
 Mi sexta linea\
-Mi septima linea
+Mi septima linea\
+Linea 08
