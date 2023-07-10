@@ -7,5 +7,4 @@ Mi quinta linea\
 Mi sexta linea\
 Mi septima linea\
 Linea 08\
-Linea 09\
-Linea 10
+Linea 09
